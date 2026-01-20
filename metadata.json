@@ -1,6 +1,5 @@
-
 {
-  "name": "TimeSplit",
+  "name": "TimeSplitMachine",
   "description": "A minimal, calm, privacy-first time tracking app for a balanced life. Track your day with one tap without the productivity hype.",
   "requestFramePermissions": []
 }
